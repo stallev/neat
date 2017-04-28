@@ -5,8 +5,9 @@
   "description": "tp11",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
-    "browser-sync": "^2.18.8",
+    "bitters": "^1.2.0",
     "bourbon": "latest",
+    "browser-sync": "^2.18.8",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-csscomb": "^3.0.8",
